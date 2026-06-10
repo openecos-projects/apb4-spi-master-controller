@@ -8,7 +8,7 @@ Family: spi
 
 Category: peripheral
 
-Repository: git@github.com:openecos-projects/ip-000005.git
+Repository: git@github.com:openecos-projects/apb4-spi-master-controller.git
 
 Upstream: https://github.com/oscc-ip/spi
 
